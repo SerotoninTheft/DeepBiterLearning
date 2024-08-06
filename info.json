@@ -1,0 +1,10 @@
+{
+    "name": "DeepBiterLearning",
+    "version": "0.0.1",
+    "title": "Deep Biter Learning",
+    "author": "Serotonintheft",
+    "description": "This mod integrates the Deep Mob Learning mod from minecraft into factorio, as a new way of generating basic resources.",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"]
+  }
+  
